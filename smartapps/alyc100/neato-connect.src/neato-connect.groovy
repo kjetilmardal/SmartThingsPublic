@@ -58,7 +58,7 @@ definition(
     namespace: "alyc100",
     author: "Alex Lee Yuk Cheung",
     description: "Integration to Neato Robotics Connected Series robot vacuums",
-    category: "",
+    category: "My Apps",
     iconUrl: "https://raw.githubusercontent.com/alyc100/SmartThingsPublic/master/smartapps/alyc100/neato_icon.png",
     iconX2Url: "https://raw.githubusercontent.com/alyc100/SmartThingsPublic/master/smartapps/alyc100/neato_icon.png",
     iconX3Url: "https://raw.githubusercontent.com/alyc100/SmartThingsPublic/master/smartapps/alyc100/neato_icon.png",
